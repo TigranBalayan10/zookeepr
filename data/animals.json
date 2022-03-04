@@ -101,11 +101,11 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Gampr",
+      "species": "Dog",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "loving"
       ],
       "id": "10"
     }
