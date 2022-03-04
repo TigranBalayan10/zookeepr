@@ -99,15 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Gampr",
-      "species": "Dog",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "10"
     }
   ]
 }
